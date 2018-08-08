@@ -5,4 +5,3 @@ Git tracks changes of files.
 Git push first test.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
-test dev
